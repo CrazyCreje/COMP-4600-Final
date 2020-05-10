@@ -1,7 +1,6 @@
 # COMP-4600-Final
 
-    DISCLAIMER: This project was completed with the assistance of the following tutorial
-
+DISCLAIMER: This project was completed with the assistance of the following tutorial
 found [here](https://k-d-w.org/blog/2019/07/survival-analysis-for-deep-learning/).
 
 ## Prerequisites
@@ -27,4 +26,5 @@ cell, then run the tensorboard.
 ## Evidence of Completion
 
 The directory screenshots/ contains evidence of running tutorial.ipynb on my machine. The
-terminal depicted shows a run of nvidia-smi during the training of the CNN.
+terminal depicted shows a run of nvidia-smi during the training of the CNN. The entry
+that is of interest is the one with the mode C (Compute) and with the path /anaconda3/...
